@@ -16,8 +16,11 @@ The small execution tests will make sure that the pipeline actually can be execu
 
 We also have a [development document](https://docs.google.com/document/d/1l2v1ItZBTDaI72vQPZcaQzxwVUao78XzIJvGASAAD9E/edit?usp=sharing) describing how a hydra-genetic pipeline/module should be structured, named and what a rule should contain.    
 
+## Wiki
+Please visit our [wiki](https://github.com/hydra-genetics/.github/wiki/Welcome-to-hydra-genetics) for more information about using hydra-genetics.
+
 ## Repositories 
-The current repositories can be divided into the following sections
+The current repositories can be divided into the following sections.
 
 ### Tools and examples
 
