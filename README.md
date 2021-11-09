@@ -60,7 +60,7 @@ Collection of rules performing QC and generating reports.
 #### [hydra-genetics/misc](https://github.com/hydra-genetics/misc)
 
 #### [hydra-genetics/references](https://github.com/hydra-genetics/references)
-Collection of rules used to create references, PoN, and background filters.
+Collection of rules used to create references, panel of normals (PoN), and background filters.
 
 
 
