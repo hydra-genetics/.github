@@ -52,7 +52,7 @@ Collections of rule to annotate vcf files.
 Collection of rules call  structural variants 
 
 #### [hydra-genetics/biomarkers](https://github.com/hydra-genetics/biomarkers)
-Collection of rules used to calculate biomarkers like Msi, TMB and HRD.
+Collection of rules used to calculate biomarkers like MSI, TMB and HRD.
 
 #### [hydra-genetics/qc](https://github.com/hydra-genetics/qc)
 Collection of rules for performing calculating QC and generating reports.
