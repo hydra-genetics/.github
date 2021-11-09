@@ -55,7 +55,7 @@ Collection of rules used to call structural variants
 Collection of rules used to calculate biomarkers like MSI, TMB and HRD.
 
 #### [hydra-genetics/qc](https://github.com/hydra-genetics/qc)
-Collection of rules for performing calculating QC and generating reports.
+Collection of rules performing QC and generating reports.
 
 #### [hydra-genetics/misc](https://github.com/hydra-genetics/misc)
 
