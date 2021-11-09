@@ -46,7 +46,7 @@ Snakemake module containing processing steps that are be performed during sequen
 Collection of rules used to call snv and small indels
 
 #### [hydra-genetics/annotation](https://github.com/hydra-genetics/annotation)
-Collections of rule to annotate vcf files.
+Collections of rules to annotate vcf files.
 
 #### [hydra-genetics/cv_sv](https://github.com/hydra-genetics/cnv_sv)
 Collection of rules call  structural variants 
