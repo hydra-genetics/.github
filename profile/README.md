@@ -48,7 +48,7 @@ Collection of rules used to call snv and small indels
 #### [hydra-genetics/annotation](https://github.com/hydra-genetics/annotation)
 Collection of rules to annotate vcf files.
 
-#### [hydra-genetics/cv_sv](https://github.com/hydra-genetics/cnv_sv)
+#### [hydra-genetics/cnv_sv](https://github.com/hydra-genetics/cnv_sv)
 Collection of rules used to call structural variants
 
 #### [hydra-genetics/biomarker](https://github.com/hydra-genetics/biomarker)
