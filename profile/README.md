@@ -51,7 +51,7 @@ Collection of rules to annotate vcf files.
 #### [hydra-genetics/cv_sv](https://github.com/hydra-genetics/cnv_sv)
 Collection of rules used to call structural variants
 
-#### [hydra-genetics/biomarkers](https://github.com/hydra-genetics/biomarkers)
+#### [hydra-genetics/biomarker](https://github.com/hydra-genetics/biomarker)
 Collection of rules used to calculate biomarkers like MSI, TMB and HRD.
 
 #### [hydra-genetics/qc](https://github.com/hydra-genetics/qc)
