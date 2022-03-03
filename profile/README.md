@@ -57,6 +57,9 @@ Collection of rules used to calculate biomarkers like MSI, TMB and HRD.
 #### [hydra-genetics/qc](https://github.com/hydra-genetics/qc)
 Collection of rules performing QC and generating reports.
 
+#### [hydra-genetics/filtering](https://github.com/hydra-genetics/filtering)
+Rules used to filter vcf-files
+
 #### [hydra-genetics/misc](https://github.com/hydra-genetics/misc)
 
 #### [hydra-genetics/references](https://github.com/hydra-genetics/references)
