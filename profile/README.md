@@ -55,6 +55,7 @@ Collection of variant filters
 Collection of fusion callers
 
 #### [hydra-genetics/misc](https://github.com/hydra-genetics/misc)
+Module containing rules that are general and most likely will be used by multiple modules.
 
 #### [hydra-genetics/prealignment](https://github.com/hydra-genetics/prealignment)
 Snakemake module containing processing steps that are be performed before sequence alignment.
