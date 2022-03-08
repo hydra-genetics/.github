@@ -36,31 +36,41 @@ Example of configuration profiles for executing Snakemake in various computing e
 
 ### Analysis modules
 
-#### [hydra-genetics/prealignment](https://github.com/hydra-genetics/prealignment)
-Snakemake module containing processing steps that are be performed before sequence alignment.
-
 #### [hydra-genetics/alignment](https://github.com/hydra-genetics/alignment)
 Snakemake module containing processing steps that are be performed during sequence alignment.
-
-#### [hydra-genetics/snv_indels](https://github.com/hydra-genetics/snv_indels)
-Collection of rules used to call snv and small indels
 
 #### [hydra-genetics/annotation](https://github.com/hydra-genetics/annotation)
 Collection of rules to annotate vcf files.
 
+#### [hydra-genetics/biomarker](https://github.com/hydra-genetics/biomarker)
+Collection of rules used to calculate biomarkers like MSI, TMB and HRD.
+
 #### [hydra-genetics/cnv_sv](https://github.com/hydra-genetics/cnv_sv)
 Collection of rules used to call structural variants
 
-#### [hydra-genetics/biomarker](https://github.com/hydra-genetics/biomarker)
-Collection of rules used to calculate biomarkers like MSI, TMB and HRD.
+#### [hydra-genetics/filtering](https://github.com/hydra-genetics/filtering)
+Collection of variant filters
+
+#### [hydra-genetics/fusions](https://github.com/hydra-genetics/fusions)
+Collection of fusion callers
+
+#### [hydra-genetics/misc](https://github.com/hydra-genetics/misc)
+
+#### [hydra-genetics/prealignment](https://github.com/hydra-genetics/prealignment)
+Snakemake module containing processing steps that are be performed before sequence alignment.
 
 #### [hydra-genetics/qc](https://github.com/hydra-genetics/qc)
 Collection of rules performing QC and generating reports.
 
-#### [hydra-genetics/misc](https://github.com/hydra-genetics/misc)
-
 #### [hydra-genetics/references](https://github.com/hydra-genetics/references)
 Collection of rules used to create references, panel of normals (PoN), and background filters.
+
+#### [hydra-genetics/snv_indels](https://github.com/hydra-genetics/snv_indels)
+Collection of rules used to call snv and small indels
+
+
+
+
 
 
 
