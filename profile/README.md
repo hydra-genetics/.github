@@ -54,6 +54,9 @@ Collection of variant filters
 #### [hydra-genetics/fusions](https://github.com/hydra-genetics/fusions)
 Collection of fusion callers
 
+#### [hydra-genetics/filtering](https://github.com/hydra-genetics/filtering)
+Rules used to filter vcf-files
+
 #### [hydra-genetics/misc](https://github.com/hydra-genetics/misc)
 Module containing rules that are general and most likely will be used by multiple modules.
 
