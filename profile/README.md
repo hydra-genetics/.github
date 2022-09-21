@@ -48,14 +48,15 @@ Collection of rules used to calculate biomarkers like MSI, TMB and HRD.
 #### [hydra-genetics/cnv_sv](https://github.com/hydra-genetics/cnv_sv)
 Collection of rules used to call structural variants
 
+#### [hydra-genetics/compression](https://github.com/hydra-genetics/compression)
+Rules used to compress files
+
+
 #### [hydra-genetics/filtering](https://github.com/hydra-genetics/filtering)
 Collection of variant filters
 
 #### [hydra-genetics/fusions](https://github.com/hydra-genetics/fusions)
 Collection of fusion callers
-
-#### [hydra-genetics/filtering](https://github.com/hydra-genetics/filtering)
-Rules used to filter vcf-files
 
 #### [hydra-genetics/misc](https://github.com/hydra-genetics/misc)
 Module containing rules that are general and most likely will be used by multiple modules.
