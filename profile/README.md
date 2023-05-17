@@ -20,7 +20,7 @@ We also have a [development document](https://docs.google.com/document/d/1l2v1It
 Please visit our [ReadTheDocs](https://hydra-genetics.readthedocs.io/en/latest/) for more information about using hydra-genetics.
 
 ## Pipelines built using Hydra-Genetics
-A list of pipelines build using Hydra-Genetics can be found at [https://github.com/hydra-genetics/hydra-genetics-pipelines](https://github.com/hydra-genetics/hydra-genetics-pipelines).
+A list of pipelines built with Hydra-Genetics can be found at [https://github.com/hydra-genetics/hydra-genetics-pipelines](https://github.com/hydra-genetics/hydra-genetics-pipelines).
 
 ## Repositories 
 The current repositories can be divided into the following sections.
