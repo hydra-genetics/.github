@@ -37,7 +37,7 @@ Collection of docker files with bioinformatic tools used to execute snakemake wi
 Example of configuration profiles for executing Snakemake in various computing environments
 
 ### Environment
-Repositories used to setup an environment for users that use windows or OSX, or any other system that doesn't support singularity.
+Repositories used to setup an environment for users using windows or OSX, or any other system that doesn't support singularity.
 
 #### [hydra-genetics/vagrant](https://github.com/hydra-genetics/vagrant)
 Build script for a vagrant machine that can be used by Window/OSX/Linux user to run snakemake in combination with singularity, will not work for ARM cpu systems.
