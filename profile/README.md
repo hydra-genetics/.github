@@ -16,8 +16,11 @@ The small execution tests will make sure that the pipeline actually can be execu
 
 We also have a [development document](https://docs.google.com/document/d/1l2v1ItZBTDaI72vQPZcaQzxwVUao78XzIJvGASAAD9E/edit?usp=sharing) describing how a hydra-genetic pipeline/module should be structured, named and what a rule should contain.    
 
-## Wiki
-Please visit our [wiki](https://github.com/hydra-genetics/.github/wiki) for more information about using hydra-genetics.
+## ReadTheDocs
+Please visit our [ReadTheDocs](https://hydra-genetics.readthedocs.io/en/latest/) for more information about using hydra-genetics.
+
+## Pipelines built using Hydra-Genetics
+A list of pipelines built with Hydra-Genetics can be found at [https://github.com/hydra-genetics/hydra-genetics-pipelines](https://github.com/hydra-genetics/hydra-genetics-pipelines).
 
 ## Repositories 
 The current repositories can be divided into the following sections.
@@ -33,6 +36,13 @@ Collection of docker files with bioinformatic tools used to execute snakemake wi
 #### [hydra-genetics/profiles](https://github.com/hydra-genetics/profiles)
 Example of configuration profiles for executing Snakemake in various computing environments
 
+### Environment
+Repositories used to setup an environment for users using windows or OSX, or any other system that doesn't support singularity.
+
+#### [hydra-genetics/vagrant](https://github.com/hydra-genetics/vagrant)
+Build script for a vagrant machine that can be used by Window/OSX/Linux user to run snakemake in combination with singularity, will not work for ARM cpu systems.
+
+#### <s>[hydra-genetics/multipass](https://github.com/hydra-genetics/multipass)</s>
 
 ### Analysis modules
 
@@ -51,7 +61,6 @@ Collection of rules used to call structural variants
 #### [hydra-genetics/compression](https://github.com/hydra-genetics/compression)
 Rules used to compress files
 
-
 #### [hydra-genetics/filtering](https://github.com/hydra-genetics/filtering)
 Collection of variant filters
 
@@ -61,6 +70,12 @@ Collection of fusion callers
 #### [hydra-genetics/misc](https://github.com/hydra-genetics/misc)
 Module containing rules that are general and most likely will be used by multiple modules.
 
+#### [hydra-genetics/mitochondrial](https://github.com/hydra-genetics/mitochondrial)
+Snakemake module for performing Mitochondrial short variant discovery
+
+#### [hydra-genetics/parabricks](https://github.com/hydra-genetics/parabricks)
+Snakemake module containing an array of steps provided by the parabricks tookit
+
 #### [hydra-genetics/prealignment](https://github.com/hydra-genetics/prealignment)
 Snakemake module containing processing steps that are be performed before sequence alignment.
 
@@ -69,6 +84,9 @@ Collection of rules performing QC and generating reports.
 
 #### [hydra-genetics/references](https://github.com/hydra-genetics/references)
 Collection of rules used to create references, panel of normals (PoN), and background filters.
+
+#### [hydra-genetics/sentieon](https://github.com/hydra-genetics/sentieon)
+Sentieon tools
 
 #### [hydra-genetics/snv_indels](https://github.com/hydra-genetics/snv_indels)
 Collection of rules used to call snv and small indels
