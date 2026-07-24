@@ -2,7 +2,7 @@
 
 We are an organization/community with the goal of making [Snakemake](https://snakemake.readthedocs.io/en/stable/index.html) pipeline development easier and faster, and a bit more structured. 
 
-We do this by providing [Snakemake modules](https://snakemake.readthedocs.io/en/stable/snakefiles/modularization.html#modules) that can be combined to create a complete analysis or included in already existing pipelines. All modules are subjected to extensive testing to make sure that new releases doesn't unexpectedly break existing pipeline or deviate from guidelines and best practices on how to write code.  
+We do this by providing [Snakemake modules](https://snakemake.readthedocs.io/en/stable/snakefiles/modularization.html#modules) that can be combined to create a complete analysis or included in already existing pipelines. All modules are subjected to extensive testing to make sure that new releases don't unexpectedly break existing pipeline or deviate from guidelines and best practices on how to write code.  
 
 ## Documentation
 Please visit our [ReadTheDocs](https://hydra-genetics.readthedocs.io/en/latest/) for more information about using hydra-genetics.
@@ -55,7 +55,7 @@ Collection of agent skills telling your AI agent how to write rules, create pipe
 
 **[alignment](https://github.com/hydra-genetics/alignment)**
 
-Snakemake module containing processing steps that are be performed during sequence alignment.
+Snakemake module containing processing steps that are performed during sequence alignment.
 
 </td>
 <td width="25%" valign="top">
@@ -106,7 +106,7 @@ Collection of fusion callers
 
 **[misc](https://github.com/hydra-genetics/misc)**
 
-Sankemake module containing rules that are general and most likely will be used by multiple modules.
+Snakemake module containing rules that are general and most likely will be used by multiple modules.
 
 </td>
 </tr>
@@ -122,14 +122,14 @@ Snakemake module for performing Mitochondrial short variant discovery
 
 **[parabricks](https://github.com/hydra-genetics/parabricks)**
 
-Snakemake module containing an array of steps provided by the parabricks tookit
+Snakemake module containing an array of steps provided by the parabricks toolkit
 
 </td>
 <td width="25%" valign="top">
 
 **[prealignment](https://github.com/hydra-genetics/prealignment)**
 
-Snakemake module containing processing steps that are be performed before sequence alignment.
+Snakemake module containing processing steps that are performed before sequence alignment.
 
 </td>
 <td width="25%" valign="top">
@@ -173,9 +173,9 @@ Collection of rules used to call snv and small indels
 </table>
 
 ### Environment
-Repositories used to setup an environment for users using windows or OSX, or any other system that doesn't support singularity.
+Repositories used to set up an environment for users using Windows or OSX, or any other system that doesn't support singularity.
 
 #### [vagrant](https://github.com/hydra-genetics/vagrant)
-Build script for a vagrant machine that can be used by Window/OSX/Linux user to run snakemake in combination with singularity, will not work for ARM CPU systems.
+Build script for a vagrant machine that can be used by Windows/OSX/Linux users to run Snakemake in combination with singularity, will not work for ARM CPU systems.
 
 #### <s>[hydra-genetics/multipass](https://github.com/hydra-genetics/multipass)</s>
