@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# AI
+.claude/
+
+# local machine stuff
+.DS_Store
